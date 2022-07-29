@@ -1,0 +1,36 @@
+
+
+.content-logo{
+    width: 100%;
+    display: flex;
+
+}
+
+.logo{
+    padding: 10px;
+}
+
+.navbar-brand{
+    text-align: center;
+    padding: 10px;
+}
+
+.lin-text{
+    color: #681514;
+}
+
+.footy{
+    align-content: center;
+    color: rebeccapurple;
+}
+.heady{
+    align-content:flex-start;
+    color: rebeccapurple;
+}
+.card{
+    width: 500px;
+    height: 500px;
+    display: flex;        
+    border: 1px dashed black;
+    margin: 10% 0% 0% 10%;
+}
